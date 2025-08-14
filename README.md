@@ -5,6 +5,8 @@ It simulates a real-world online food ordering experience, complete with **menu 
 
 ---
 
+🔗 Live Link - https://tomato007.netlify.app/
+
 ## 🚀 Tech Stack
 - **Frontend Framework:** [React.js](https://reactjs.org/)
 - **Build Tool:** [Vite](https://vitejs.dev/)
@@ -12,8 +14,6 @@ It simulates a real-world online food ordering experience, complete with **menu 
 - **Styling:** CSS3
 - **Markup:** HTML5
 - **State Management:** React Context API
-
----
 
 ---
 
@@ -63,6 +63,4 @@ npm install
 npm run dev 
 ```
 
-
-🔗 Live Link - https://tomato007.netlify.app/
 
