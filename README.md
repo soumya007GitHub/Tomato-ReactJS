@@ -5,6 +5,8 @@ It simulates a real-world online food ordering experience, complete with **menu 
 
 ---
 
+🔗 Live Link - https://tomato007.netlify.app/
+
 ## 🚀 Tech Stack
 - **Frontend Framework:** [React.js](https://reactjs.org/)
 - **Build Tool:** [Vite](https://vitejs.dev/)
@@ -12,46 +14,6 @@ It simulates a real-world online food ordering experience, complete with **menu 
 - **Styling:** CSS3
 - **Markup:** HTML5
 - **State Management:** React Context API
-
----
-
-## 📂 Folder Structure
-FOOD-APP/
-│
-├── public/ # Public assets (served as-is)
-│ └── vite.svg
-│
-├── src/
-│ ├── assets/ # Static images, icons, etc.
-│ │
-│ ├── components/ # Reusable UI components
-│ │ ├── AppDownload # App download section
-│ │ ├── ExploreMenu # Menu browsing section
-│ │ ├── FoodDisplay # Displays list of food items
-│ │ ├── FoodItem # Individual food item card
-│ │ ├── Footer # Application footer
-│ │ ├── Header # Top banner/header
-│ │ ├── LoginPopUp # Login modal popup
-│ │ └── NavBar # Navigation bar
-│ │
-│ ├── context/ # Global state using Context API
-│ │ └── StoreContext.jsx
-│ │
-│ ├── pages/ # Main page views
-│ │ ├── Cart # User's shopping cart
-│ │ ├── Home # Landing page
-│ │ └── PlaceOrder # Order placement form
-│ │
-│ ├── App.jsx # Root app component
-│ ├── index.css # Global styles
-│ └── main.jsx # Entry point
-│
-├── .gitignore # Git ignore rules
-├── eslint.config.js # Linting configuration
-
-yaml
-Copy
-Edit
 
 ---
 
@@ -89,21 +51,16 @@ This allows all components to access and update data **without prop drilling**.
 ## 📦 Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/tomato-food-delivery.git
+git clone https://github.com/soumya007GitHub/Tomato-ReactJS.git
 
 # Navigate to the project directory
-cd tomato-food-delivery
+cd Tomato-ReactJS
 
 # Install dependencies
 npm install
 
 # Run the development server
-npm run dev
+npm run dev 
+```
 
-🌐 Live Demo
 
-🔗 Live Link (Add your deployed app link here)
-
-📜 License
-
-This project is licensed under the MIT License.
